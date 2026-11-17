@@ -1,0 +1,7 @@
+.venv/
+.env
+clips/
+*.mp4
+*.mp3
+__pycache__/
+.DS_Store
